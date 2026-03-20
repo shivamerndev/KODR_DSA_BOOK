@@ -10,7 +10,7 @@
 
 ✅Q6 Accept two numbers from user and swap their values (Part 2 - Swap without using third variable)
 
-✅Q7 Accept the length and width of a rectangle. Calculate & print the area and perimeter.   
+✅Q7 Accept the length and width of a rectangle. Calculate & print the area and perimeter.
 
 ✅Q8 Accept the parameters and calculate the Compound Interest & print it on STDOUT (Use Math class methods)
 
@@ -38,25 +38,25 @@
 
 ✅Q20 Shop discount
 
-Q21 Bijli Bill
+✅Q21 Bijli Bill
 
-Q22 Accept an English alphabet from user and check if it is a consonant or a vowel.
+✅Q22 Accept an English alphabet from user and check if it is a consonant or a vowel.
 
-Q23 Accept an integer and Print \Hello World\" n times"
+✅Q23 Accept an integer and Print \Hello World\" n times"
 
-Q24 Print natural number up to n.
+✅Q24 Print natural number up to n.
 
-Q25 Reverse for loop. Print n to 1.
+✅Q25 Reverse for loop. Print n to 1.
 
-Q26 Take a number as input and print its table (Ex: 5 \* 1 = 5 ... up to 10 terms)
+✅Q26 Take a number as input and print its table (Ex: 5 \* 1 = 5 ... up to 10 terms)
 
-Q27 Sum up to n terms.
+✅Q27 Sum up to n terms.
 
-Q28 Factorial of a number
+✅Q28 Factorial of a number
 
-Q29 Print the sum of all even & odd numbers in a range separately.
+✅Q29 Print the sum of all even & odd numbers in a range separately.
 
-Q30 Print all the factors of a number.
+✅Q30 Print all the factors of a number.
 
 Q31 Print the sum of all factors of a number (Ex: 50 -> 1 + 2 + 5 + 10 + 25 = 43)
 
