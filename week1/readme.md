@@ -58,25 +58,25 @@
 
 ✅Q30 Print all the factors of a number.
 
-Q31 Print the sum of all factors of a number (Ex: 50 -> 1 + 2 + 5 + 10 + 25 = 43)
+✅Q31 Print the sum of all factors of a number (Ex: 50 -> 1 + 2 + 5 + 10 + 25 = 43)
 
-Q32 Check if the number is Prime or not.
+✅Q32 Check if the number is Prime or not.
 
-Q33 Write a program to take two inputs a, b & find the value of a raised to the power of b. (Ex - a = 2, b = 5, OP - 2^5 = 32)
+✅Q33 Write a program to take two inputs a, b & find the value of a raised to the power of b. (Ex - a = 2, b = 5, OP - 2^5 = 32)
 
-Q34 Separate each digit of a number and print it on a new line (Ex - 123 -> OP: 3, 2, 1)
+✅Q34 Separate each digit of a number and print it on a new line (Ex - 123 -> OP: 3, 2, 1)
 
-Q35 Sum of digits of a number (Ex: 936 = 18)
+✅Q35 Sum of digits of a number (Ex: 936 = 18)
 
-Q36 Accept a number and print its reverse
+✅Q36 Accept a number and print its reverse
 
-Q37 Accept a number and check if it is a palindromic number (If number and its reverse are equal, Ex: 12321 - Reverse - 12321)
+✅Q37 Accept a number and check if it is a palindromic number (If number and its reverse are equal, Ex: 12321 - Reverse - 12321)
 
-Q38 Accept a number and check if it is a strong number or not (Sum of factorial of each digit, Ex: 145 = 1! + 4! + 5! = 145)
+✅Q38 Accept a number and check if it is a strong number or not (Sum of factorial of each digit, Ex: 145 = 1! + 4! + 5! = 145)
 
-Q39 Automorphic number (Ex: 5 = 25 = 625 = 390625, 6=36, 76 = 5776)
+✅Q39 Automorphic number (Ex: 5 = 25 = 625 = 390625, 6=36, 76 = 5776)
 
-Q40 Print \hello\" until user gives wrong input using do while"
+✅Q40 Print \hello\" until user gives wrong input using do while"
 
 Q41 Make a choice based calculator using do while
 
