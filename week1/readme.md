@@ -78,28 +78,28 @@
 
 ✅Q40 Print \hello\" until user gives wrong input using do while"
 
-Q41 Make a choice based calculator using do while
+✅Q41 Make a choice based calculator using do while
 
-Q42 Print Weekday using Switch
+✅Q42 Print Weekday using Switch
 
-Q43 Question 22 using Switch (Check Consonant or Vowel using Switch)
+✅Q43 Question 22 using Switch (Check Consonant or Vowel using Switch)
 
-Q44 Project - Guess Game
+✅Q44 Project - Guess Game
 
-Q45 Project - Restaurant v1.0
+✅Q45 Project - Restaurant v1.0
 
-Q46 Right Triangle - Star Pattern
+✅Q46 Right Triangle - Star Pattern
 
-Q47 Right Triangle - Number Pattern
+✅Q47 Right Triangle - Number Pattern
 
-Q48 Right Triangle - Alphabet Pattern
+✅Q48 Right Triangle - Alphabet Pattern
 
-Q49 Inverted Right Triangle Pattern
+✅Q49 Inverted Right Triangle Pattern
 
-Q50 Mirrored Right Triangle Pattern
+✅Q50 Mirrored Right Triangle Pattern
 
-Q51 Triangle Pattern
+✅Q51 Triangle Pattern
 
-Q52 V Pattern - Min Height = 3
+✅Q52 V Pattern - Min Height = 3
 
-Q53 X Pattern
+✅Q53 X Pattern
