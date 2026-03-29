@@ -1,24 +1,24 @@
-Q55 Accept size n from user and create an n size array then take n inputs into it and finally print the sum & average of all elements.
+✅Q55 Accept size n from user and create an n size array then take n inputs into it and finally print the sum & average of all elements.
 
-Q56 Find the greatest element (Ex: {2, 96, 69, 77, 145, 20} = Max element = 145 found at 4 index)
+✅Q56 Find the greatest element (Ex: {2, 96, 69, 77, 145, 20} = Max element = 145 found at 4 index)
 
-Q57 Find the second greatest element (Ex: {2, 96, 69, 77, 145, 20} = Second greatest element = 96)
+✅Q57 Find the second greatest element (Ex: {2, 96, 69, 77, 145, 20} = Second greatest element = 96)
 
-Q58 Check if array is sorted in increasing order or not. (Ex 1 - { 1, 5, 8, 9, 10, 15 } - OP = \YES\"
+✅Q58 Check if array is sorted in increasing order or not. (Ex 1 - { 1, 5, 8, 9, 10, 15 } - OP = \YES\"
 
-Q59 Take n integer inputs from user and store them in an array. Now, copy all the elements into another array in reverse order and print it.
+✅Q59 Take n integer inputs from user and store them in an array. Now, copy all the elements into another array in reverse order and print it.
 
-Q60 Array left Rotation by 1
+✅Q60 Array left Rotation by 1
 
-Q61 Array left rotation by K elements
+✅Q61 Array left rotation by K elements
 
-Q62 Array Reverse Without Using Extra space
+✅Q62 Array Reverse Without Using Extra space
 
-Q63 Linear Search an array - If element found print the index, else -1
+✅Q63 Linear Search an array - If element found print the index, else -1
 
-Q64 Binary Search. If element found print the index, else -1
+✅Q64 Binary Search. If element found print the index, else -1
 
-Q65 Bubble Sort.
+✅Q65 Bubble Sort.
 
 Q66 Move all the negative elements on the left side and positive elements on the right side O(n).
 
