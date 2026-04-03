@@ -40,27 +40,27 @@
 
 ✅Q75 We are given an array of Integers. We have to perform the following operation on the array until it is fully exhausted: Select the max number in the array and delete that number including all the numbers to its right side in the array. Repeat this step for the left elements of the array i.e select the maximum element in the left elements and delete it including all numbers to its right. Our task is to simulate the above procedure and return the number of steps that will be taken until the first element (index 0) of the array is also deleted and the array is exhausted. (Ex: Array = [2, 3, 5, 4, 1], Output : Steps Taken: 3)
 
-Q76 Given an array of even size, task is to find minimum value that can be added to an element so that the array becomes balanced. An array is balanced if the sum of the left half of the array elements is equal to the sum of the right half. (Ex: Input : 1 2 1 2 1 3, Output : 2)
+✅Q76 Given an array of even size, task is to find minimum value that can be added to an element so that the array becomes balanced. An array is balanced if the sum of the left half of the array elements is equal to the sum of the right half. (Ex: Input : 1 2 1 2 1 3, Output : 2)
 
-Q77 Sort First half in Ascending and Second half in descending order in an array
+✅Q77 Sort First half in Ascending and Second half in descending order in an array
 
-Q78 Find sum of minimum absolute difference of the given array
+✅Q78 Find sum of minimum absolute difference of the given array
 
-Q79 Divide Array Into Equal Pairs
+✅Q79 Divide Array Into Equal Pairs
 
-Q80 Maximum Number of Pairs in Array
+⬇️✅Q80 Maximum Number of Pairs in Array
 
-Q81 Count Equal and Divisible Pairs in an Array
+✅Q81 Count Equal and Divisible Pairs in an Array
 
-Q82 Keep Multiplying Found Values by Two
+⬇️✅Q82 Keep Multiplying Found Values by Two
 
-Q83 Smallest Index With Equal Value
+✅Q83 Smallest Index With Equal Value
 
-Q84 Count Operations to Obtain Zero
+✅Q84 Count Operations to Obtain Zero
 
-Q85 Make Array Zero by Subtracting Equal Amounts
+✅Q85 Make Array Zero by Subtracting Equal Amounts
 
-Q86 Count Hills and Valleys in an Array
+✅Q86 Count Hills and Valleys in an Array
 
 Q87 Find Greatest Common Divisor of Array
 
