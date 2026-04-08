@@ -62,22 +62,22 @@
 
 ✅Q86 Count Hills and Valleys in an Array
 
-Q87 Find Greatest Common Divisor of Array
+✅Q87 Find Greatest Common Divisor of Array
 
-Q88 Find the Highest Altitude
+✅Q88 Find the Highest Altitude
 
-Q89 Minimum Sum of Four Digit Number After Splitting Digits
+✅Q89 Minimum Sum of Four Digit Number After Splitting Digits
 
-Q90 Sort Even and Odd Indices Independently
+✅Q90 Sort Even and Odd Indices Independently
 
-Q91 Min Max Game - Array
+✅Q91 Min Max Game - Array
 
-Q92 Minimum Number of Seat Everyone
+✅Q92 Minimum Number of Seat Everyone
 
-Q93 Two Furthest Houses With Different Colors
+✅Q93 Two Furthest Houses With Different Colors
 
-Q94 Matrix Diagonal Sum
+✅⬇️Q94 Matrix Diagonal Sum
 
-Q95 Transpose Matrix
+✅⬇️Q95 Transpose Matrix
 
-Q96 Flipping an Image
+✅⬇️Q96 Flipping an Image

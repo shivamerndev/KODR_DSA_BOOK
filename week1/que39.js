@@ -7,7 +7,7 @@ let num = Number(prompt("Enter a Number "))
 let square = num * num;
 
 if (square % 100 === num) {
-    console.log("Automorphic Number");
+    console.log("Automorphic Number"); 
 } else {
-    console.log("Not Automorphic Number");
+    console.log("Not Automorphic Number"); 
 }
