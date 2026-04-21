@@ -1,12 +1,14 @@
 // Q81 Count Equal and Divisible Pairs in an Array
 
-// (0,6) → 3 = 3 and (0*6)%2 = 0
-// (1,5) → 1 = 1 and (1*5)%2 = 1 ❌ not allowed
-// (2,3) → 2 = 2 and (2*3)%2 = 0
-// (2,4) → 2 = 2 and (2*4)%2 = 0
-// (3,4) → 2 = 2 and (3*4)%2 = 0
 
-// Output → 4
+// There are 4 pairs that meet all the requirements:
+// - nums[0] == nums[6], and 0 * 6 == 0, which is divisible by 2.
+// - nums[2] == nums[3], and 2 * 3 == 6, which is divisible by 2.
+// - nums[2] == nums[4], and 2 * 4 == 8, which is divisible by 2.
+// - nums[3] == nums[4], and 3 * 4 == 12, which is divisible by 2.
+
+// Output: 4
+
 
 let arr = [3, 1, 2, 2, 2, 1, 3], length = arr.length;
 let k = 2;

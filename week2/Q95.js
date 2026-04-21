@@ -1,23 +1,26 @@
 // Q95 Transpose Matrix
 
-// Rule = result[j][i] = matrix[i][j]
+// Rule = newArr[j][i] = matrix[i][j]
 // Matrix = [ [1,2,3],[4,5,6] ]
-// Transpose = [ [1,4],[2,5],[3,6] ]
+// Transpose = [
+//  [1,4],
+//  [2,5],
+//  [3,6]]
 
-function transpose(matrix) {
+let mat = [
+    [1, 2, 3],
+    [4, 5, 6]]
 
-    let rows = matrix.length;
-    let cols = matrix[0].length;
+let rows = mat.length
+let cols = mat[0].length
 
-    let result = Array.from({ length: cols }, () => Array(rows));
+let newArr = []
 
-    for (let i = 0; i < rows; i++) {
+for (let i = 0; i < cols; i++) {
 
-        for (let j = 0; j < cols; j++) {
+    newArr[i] = []   // create inner array because It will occur error
 
-            result[j][i] = matrix[i][j];
-        }
-    }
-    return result;
+    for (let j = 0; j < rows; j++) newArr[i][j] = mat[j][i]
 }
-console.log(transpose([[1, 2, 3], [4, 5, 6]]))// output: Above in Example.
+
+console.log(newArr)

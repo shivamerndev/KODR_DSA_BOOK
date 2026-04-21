@@ -2,12 +2,19 @@
 
 const prompt = require("prompt-sync")()
 
-let num = Number(prompt("Enter a Number "))
-
+let num = Number(prompt("Enter a Number ")), temp = num;
 let square = num * num;
+let count = 1;
 
-if (square % 100 === num) {
-    console.log("Automorphic Number"); 
+while (num > 0) {
+
+    count *= 10
+    num = Math.floor(num / 10)
+}
+
+
+if (square % count === temp) {
+    console.log("Automorphic Number");
 } else {
-    console.log("Not Automorphic Number"); 
+    console.log("Not Automorphic Number");
 }

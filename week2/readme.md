@@ -18,7 +18,7 @@
 
 ✅Q64 Binary Search. If element found print the index, else -1
 
-✅Q65 Bubble Sort.
+✅Q65 Bubble Sort.⬇️
 
 ✅Q66 Move all the negative elements on the left side and positive elements on the right side O(n).
 
@@ -30,7 +30,7 @@
 
 ✅Q70 Concatenation of array
 
-⬇️✅Q71 Build Array from Permutation
+⬇️✅Q71 Build Array from Permutation - easy hai
 
 ✅Q72 Given a sorted array of distinct elements, find the summation of absolute differences of all pairs in the given array. (Ex: arr[] = {1, 2, 3, 4}, Output: 10)
 

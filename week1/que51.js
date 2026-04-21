@@ -1,19 +1,17 @@
 // Q51 Triangle Pattern
 
-let n = 6;
+let num = 5
 
-for (let i = 1; i <= n; i++) {
-    let row = "";
+for (let i = 0; i < num; i++) {
+    let sum = ""
 
-    // spaces
-    for (let j = 1; j <= n - i; j++) {
-        row += " ";
+    for (let j = 0; j < num - i; j++) {
+        sum += " "
     }
 
-    // stars
-    for (let k = 1; k <= i; k++) {
-        row += "* ";
+    for (let j = 0; j <= i; j++) {
+        sum += "🗼"
     }
 
-    console.log(row);
+    console.log(sum)
 }

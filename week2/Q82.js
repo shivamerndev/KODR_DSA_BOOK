@@ -25,4 +25,4 @@ while (found) {
         }
     }
 }
-console.log(original)
+console.log(original) // 24
